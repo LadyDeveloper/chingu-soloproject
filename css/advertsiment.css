@@ -1,0 +1,22 @@
+.advertsiment{
+    grid-column: 3/-1;
+    grid-row: 1 / -1;
+    position: relative;
+    top: 85%;
+    left: 9%;
+    width: 860px;
+    height: 9vh;
+    display: flex;
+    align-content: center;
+}
+
+.box-ad{
+
+    border-left: 4px solid #454759;
+    color: white;
+    padding: 5%;
+}
+.ad{
+color: white;
+    text-align: center;
+}

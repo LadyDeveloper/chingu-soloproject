@@ -1,0 +1,51 @@
+.github{
+    font-family: 'Inconsolata', monospace;
+    grid-column: 3/-1;
+    grid-row: 1/ 3;
+    position: relative;
+    overflow-y: scroll;
+    width: 330px;
+    height: 79vh;
+    border-bottom: 1px solid #454759;
+    margin-left: 6%;
+   }
+
+.github-feed{
+    padding-top: 12%;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 100;
+    color: #8be9fd;
+}
+.github-p{
+    font-size: 12px;
+    text-align: center;
+    font-weight: 100;
+    color: #6272A4;
+    padding-top: 1%;
+}
+.githubIssue{
+    color: #E4DB7A;
+    text-align: center;
+    padding-top: 7%;
+}
+.githubPull{
+    color: #FF75C4;
+}
+.githubList{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 100;
+    color: #78C0D1;
+    margin: 6% 2% 10% 2%;
+    padding-left: 4%;
+    font-size: 14px;
+    border-left: 4px solid #454759;
+    top: 8%;
+    position: relative;
+    line-height: 1.5;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+.fa-github-alt{
+    color: #8be9fd;
+}

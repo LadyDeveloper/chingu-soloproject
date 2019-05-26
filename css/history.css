@@ -1,0 +1,40 @@
+.history{
+    font-family: 'Inconsolata', monospace;
+    overflow-y: scroll;
+    width: 700px;
+    height: 350px;
+    border-bottom: 1px solid #454759;
+}
+.historyjs{
+    padding: 5%;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 100;
+    color: #8be9fd;
+
+}
+.historyfeedul{
+      line-height: 2;  
+}
+.historyfeed{
+    color: #6272a4;
+    font-size: 14px;
+    font-weight: 100;
+
+}
+.lastvisit{
+    float: right;
+    color: #999;
+}
+.fa-chrome{
+    color: grey;
+    background-color: aliceblue;
+}
+.fa-google{
+    color: #564352;
+    background-color: aliceblue;
+}
+.fa-medium{
+    color: green;
+    background-color: aliceblue;
+}

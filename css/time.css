@@ -1,0 +1,53 @@
+#displayTime{
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    position: absolute;
+    color: #6272A4 ;
+    font-size: 770%;
+    top: 60%;
+    left: 46%;
+    font-weight: 400;
+}
+
+#displayDate{
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+     position: absolute;
+     color: #6272A4;
+     font-size: 20px;
+     top: 76%;
+     left: 53%;
+     font-weight: 100;
+
+ }
+ #suffix{
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    position: absolute;
+    color: #6272A4;
+    font-size: 200%;
+    top: 70%;
+    left: 67%;
+}
+.fa-question-circle{
+    color: #FFB86C;
+}
+.linkMessage{
+    position: absolute;
+    text-align: center;
+    color: #6272A4;
+    top: 82%;
+    left: 33%;
+    width: 50%;
+    font-size: 92%;;
+}
+
+button{
+    background-color: Transparent;
+    outline:none;
+    border: none;
+    cursor:pointer;
+}
+.fa-times-circle{
+    color: #FFB86C;
+}
+.orange{
+    color: #FFB86C;
+}
