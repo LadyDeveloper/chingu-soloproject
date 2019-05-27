@@ -4,7 +4,7 @@
     color: #6272A4 ;
     font-size: 770%;
     top: 60%;
-    left: 46%;
+    left: 40%;
     font-weight: 400;
 }
 
@@ -50,4 +50,14 @@ button{
 }
 .orange{
     color: #FFB86C;
+}
+@media (max-width: 1100px){
+    #suffix{
+        left: 70%;
+    }
+}
+@media (max-width: 1500px){
+    #suffix{
+        left: 66%;
+    }
 }

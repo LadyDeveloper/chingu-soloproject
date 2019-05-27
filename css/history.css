@@ -1,8 +1,8 @@
 .history{
     font-family: 'Inconsolata', monospace;
     overflow-y: scroll;
-    width: 700px;
-    height: 350px;
+    width: 100%;
+    height: 46%;
     border-bottom: 1px solid #454759;
 }
 .historyjs{
